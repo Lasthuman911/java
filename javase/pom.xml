@@ -5,13 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>Lszhen</groupId>
-    <artifactId>java</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>javase</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>javase</module>
-        <module>spring</module>
-    </modules>
 
-
+    
 </project>
